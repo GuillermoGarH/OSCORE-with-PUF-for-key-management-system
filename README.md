@@ -1,7 +1,7 @@
 # PUFwithOSCORE
 Implementation of the protocol OSCORE with Java via Sockets, integrating the key managment system with a Physical Unclonable Funcition
 
-Used for the clients a Raspberry Pi with a SRAM 23LC1024
+Used for the clients a Raspberry Pi 3 Model B with a SRAM 23LC1024
 
 For the server part of all codes the path used should work in any Ubuntu OS, double check either way, for Client ***YOU MUST*** change the paths for your own to make it work. 
 Was distributed like this for organization reasons.
