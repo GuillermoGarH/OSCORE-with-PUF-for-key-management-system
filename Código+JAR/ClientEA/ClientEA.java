@@ -4,7 +4,7 @@ public class ClientEA {
 	public static void main(String args[])
 	{
 		LibraryClient Client =  new LibraryClient();
-		Client.startClient("192.168.1.102", 5000); //CAMBIAR. SOLO PARA TESTING
+		Client.startClient("192.168.1.110", 5000); //CAMBIAR. SOLO PARA TESTING
 		System.out.println("Client connected");
 		Client.sendOut(Client.findFile("SerialNumber.txt"));
 		
