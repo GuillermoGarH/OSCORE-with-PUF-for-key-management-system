@@ -37,7 +37,7 @@ import org.json.simple.parser.JSONParser;
 public class ClienteOSCORE {
 
 	private final static HashMapCtxDB db = new HashMapCtxDB();
-	private final static String uriLocal = "coap://192.168.1.102";
+	private final static String uriLocal = "coap://192.168.1.110";
 	private final static String ComsResource = "/ComsResource";
 	private final static AlgorithmID alg = AlgorithmID.AES_CCM_16_64_128;
 	private final static AlgorithmID kdf = AlgorithmID.HKDF_HMAC_SHA_256;
