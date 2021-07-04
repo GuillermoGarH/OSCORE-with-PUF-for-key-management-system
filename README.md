@@ -5,6 +5,7 @@ Used for the clients a Raspberry Pi 3 Model B with a SRAM 23LC1024
 
 For the server part of all codes the path used should work in any Ubuntu OS, double check either way, for Client ***YOU MUST*** change the paths for your own to make it work. 
 Was distributed like this for organization reasons.
+***YOU MUST*** also change the IP to your Server device IP. 
 
 The process of execution is:
 
